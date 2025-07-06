@@ -1,36 +1,31 @@
-Landed by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+#  Bike Sales Dashboard (Excel)
 
+This project is an **interactive Excel dashboard** for analyzing bike sales data.  
+It includes cleaned data, pivot tables, slicers
 
-A dark, slick, modern, responsive, adjective-drenched design built around an extremely
-dynamic landing page (scroll that mofo!). Inspired by Big Picture, another design
-of mine with a similarish feel/flow, only this time I took it waaaaaay further and
-actually made it multipurpose (versus copping out and making it a one pager like I
-did last time ;) Includes multiple pages, a bunch of pre-styled elements, and all
-its Sass sources.
+---
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## 📊 Features
+- Cleaned and structured sales data
+- Pivot tables & slicers for filtering
+- Desktop-friendly layout
 
-(* = Not included)
+---
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+##  Preview
 
-AJ
-aj@lkn.io | @ajlkn
+![Dashboard Screenshot](dashboard.png)
 
+---
 
-Credits:
+##  Files
+- `bike_sales.xlsx` – Excel file with data and dashboard
+- `dashboard.png` – Screenshot of the dashboard
+- `README.md` – Project overview
 
-	Demo Images:
-		Unsplash (unsplash.com)
+---
 
-	Icons:
-		Font Awesome (fontawesome.io)
+*Bezawit Assefa**  
+Aspiring Data Analyst | Excel • Power BI • SQL  
+ bezawitassefa499@gmail.com
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)"# bike-sales-excel-project" 
-"# bike-sales-excel-project" 
